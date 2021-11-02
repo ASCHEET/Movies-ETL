@@ -24,7 +24,9 @@ This is from ETL_clean_kaggle_data.ipnyb
 Using Python, Pandas, the ETL process, code refactoring, and PostgreSQL to add the movies_df DataFrame and MovieLens rating CSV data to a SQL database as shown below.
 Challenging item was installing the code to remove the ratings table in sql from python.  If this was not done each time the code was ran it kept adding to the 'ratings' sql table.  And with over 26+ million ratings the table could become quite large.
 ![Fig 9 - drop table](https://github.com/ASCHEET/Movies-ETL/blob/main/Resources/drop%20table.png?raw=true)
-!Fig 10 - movies query](https://github.com/ASCHEET/Movies-ETL/blob/main/Resources/movies.png?raw=true)
+
+![Fig 10 - movies query](https://github.com/ASCHEET/Movies-ETL/blob/main/Resources/movies.png?raw=true)
+
 ![Fig 11 - ratings query](https://github.com/ASCHEET/Movies-ETL/blob/main/Resources/ratings.png?raw=true)
 
 
