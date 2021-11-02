@@ -27,7 +27,7 @@ Challenging item was installing the code to remove the ratings table in sql from
 
 ![Fig 10 - movies query](https://github.com/ASCHEET/Movies-ETL/blob/main/Resources/movies.png?raw=true)
 
-![Fig 11 - ratings query](https://github.com/ASCHEET/Movies-ETL/blob/main/Resources/ratings.png?raw=true)
+![Fig 11 - ratings query](https://github.com/ASCHEET/Movies-ETL/blob/main/Resources/ratings%20-%20Copy.png?raw=true)
 
 
 
